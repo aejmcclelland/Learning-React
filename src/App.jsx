@@ -20,7 +20,6 @@ function App() {
   return (
     <div className='App'>
       {/* <Accordian /> */}
-      {/* <Accordian /> */}
       <h1>Family Favourites</h1>
       <div className='cards-container'>
         {data.map((item, index) => {
