@@ -1,7 +1,7 @@
 
 # Learning-React
 
-Using react+Vite to build some React projects.
+Using React+Vite to build some React projects.
 
 Projects:
 
