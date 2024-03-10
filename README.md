@@ -7,4 +7,4 @@ Projects:
 
 1. Accordian
 
-2. Use Google Sheets data and Apps Script to create anendpoint to access the data in the sheet and use React to display the data in a Web page.
+2. Use Google Sheets data and Apps Script to create an endpoint to access the data in the sheet and use React to display the data in a Web page.
